@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\OurFirstProgram\bin\Debug\OurFirstProgram.exe.config
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\OurFirstProgram\bin\Debug\OurFirstProgram.exe
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\OurFirstProgram\bin\Debug\OurFirstProgram.pdb
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\OurFirstProgram\obj\Debug\OurFirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\OurFirstProgram\obj\Debug\OurFirstProgram.exe
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\OurFirstProgram\obj\Debug\OurFirstProgram.pdb
