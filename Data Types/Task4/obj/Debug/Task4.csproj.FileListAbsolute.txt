@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task4\bin\Debug\Task4.exe.config
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task4\bin\Debug\Task4.exe
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task4\bin\Debug\Task4.pdb
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task4\obj\Debug\Task4.exe
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task4\obj\Debug\Task4.pdb
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache

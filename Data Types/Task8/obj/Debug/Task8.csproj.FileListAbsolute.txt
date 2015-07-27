@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task8\bin\Debug\Task8.exe.config
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task8\bin\Debug\Task8.exe
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task8\bin\Debug\Task8.pdb
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task8\obj\Debug\Task8.exe
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task8\obj\Debug\Task8.pdb

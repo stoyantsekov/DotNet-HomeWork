@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task9\bin\Debug\Task9.exe.config
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task9\bin\Debug\Task9.exe
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task9\bin\Debug\Task9.pdb
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task9\obj\Debug\Task9.exe
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task9\obj\Debug\Task9.pdb
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task2\bin\Debug\Task2.exe.config
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task2\bin\Debug\Task2.exe
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task2\bin\Debug\Task2.pdb
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task2\obj\Debug\Task2.exe
+C:\Users\HP\Desktop\DotNet-HomeWork\Data Types\Task2\obj\Debug\Task2.pdb
